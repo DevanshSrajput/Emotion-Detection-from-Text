@@ -10,6 +10,16 @@ This repository contains my **Emotion Detection App**, built as part of my ML In
 
 ---
 
+## 🎬 Video Walkthrough
+
+> <b>Watch the magic happen:</b>
+>
+> [![Demo Video](https://github.com/DevanshSrajput/Emotion-Detection-from-Text/blob/main/Emotion-Detection-from-Text.png)](https://youtu.be/utrLo_hFg20)
+>
+> <i>Click the thumbnail above to see a full walkthrough of the Emotion Detection App🎭 in action!</i>
+
+---
+
 ## 🚀 What Does This Do?
 
 - **Detects emotions** in text using AI-powered sentiment analysis.
