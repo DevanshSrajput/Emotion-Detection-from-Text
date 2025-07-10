@@ -10,6 +10,16 @@ This repository contains my **Emotion Detection App**, built as part of my ML In
 
 ---
 
+## 📸 Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="Screenshots/Home.png" width="200"/>
+  <img src="Screenshots/Prediction.png" width="200"/>
+  <img src="Screenshots/Analytics.png" width="200"/>
+</div>
+
+---
+
 ## 🎬 Video Walkthrough
 
 > <b>Watch the magic happen:</b>
